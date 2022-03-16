@@ -1,0 +1,3 @@
+== Sistemas Operativos ==
+Ficheiro de texto de teste.
+Artur Nobre
